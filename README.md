@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | .NET | Java Modder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9AF0&center=true&vCenter=true&width=435&lines=ASP.NET+Core+%7C+Blazor+%7C+MVC;PostgreSQL+%7C+EF+Core;React+%7C+Bootstrap;Building+Minecraft+STALKER+mod" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9AF0&center=true&vCenter=true&width=435&lines=ASP.NET+Core+%7C+Blazor+%7C+MVC;PostgreSQL+%7C+EF+Core;React+%7C+Bootstrap;Building+Minecraft+STALKER+Project" alt="Typing SVG" />
 </p>
 
 ---
