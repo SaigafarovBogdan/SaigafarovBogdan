@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Bogdan</h1>
+<h3 align="center">Full-Stack Developer | .NET | Java Modder</h3>
 
-<!--
-**SaigafarovBogdan/SaigafarovBogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9AF0&center=true&vCenter=true&width=435&lines=ASP.NET+Core+%7C+Blazor+%7C+MVC;PostgreSQL+%7C+EF+Core;React+%7C+Bootstrap;Building+Minecraft+STALKER+mod" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+I'm a passionate developer from **Russia** with a focus on the **.NET ecosystem**.  
+I build clean, scalable web applications and love diving into complex backend logic.
+
+---
+
+### 🔥 Featured Project
+
+<a href="https://discord.gg/939HNjkQx" target="_blank">
+    <img src="https://img.shields.io/discord/1517622457006166150?style=plastic" />
+  </a>
+
+> A Minecraft modification that brings the atmosphere, mutants, and artifacts of the STALKER universe into the blocky world.
+
+---
+
+### 🛠️ Tech Stack
+
+#### Core Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgresql" />
+</p>
+
+- **Languages:** C#, Java, JavaScript, TypeScript
+- **Frameworks:** ASP.NET Core, Blazor, MVC, Entity Framework Core
+- **Databases:** PostgreSQL, MS SQL
+
+#### Frontend & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,js,html,css" />
+</p>
+
+- **Frontend:** React, Effector (state manager), Bootstrap
+- **Tools:** Git, Visual Studio, IntelliJ IDEA, Docker
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://boosty.to/staloners/donate" target="_blank">
+    <img src="https://img.shields.io/badge/Boosty-FF6600?style=for-the-badge&logo=boosty&logoColor=white" />
+  </a>
+</p>
