@@ -60,4 +60,7 @@ I build clean, scalable web applications and love diving into complex backend lo
   <a href="https://boosty.to/staloners/donate" target="_blank">
     <img src="https://img.shields.io/badge/Boosty-FF6600?style=for-the-badge&logo=boosty&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/SaigafarovBogdan" target="_blank">
+    <img src="https://img.shields.io/badge/Gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
 </p>
