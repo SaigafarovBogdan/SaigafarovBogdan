@@ -48,12 +48,12 @@ I build clean, scalable web applications and love diving into complex backend lo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaigafarovBogdan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaigafarovBogdan&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaigafarovBogdan&theme=react&hide_border=true&background=0D1117" />
 </p>
 
 ---
