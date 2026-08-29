@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate developer from **Russia** with a focus on the **.NET ecosystem**.  
+I'm a developer from **Russia** with a focus on the **.NET ecosystem**.  
 I build clean, scalable web applications and love diving into complex backend logic.
 
 ---
@@ -56,9 +56,6 @@ I build clean, scalable web applications and love diving into complex backend lo
 <p align="left">
   <a href="mailto:your@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://boosty.to/staloners/donate" target="_blank">
-    <img src="https://img.shields.io/badge/Boosty-FF6600?style=for-the-badge&logo=boosty&logoColor=white" />
   </a>
   <a href="https://gitlab.com/SaigafarovBogdan" target="_blank">
     <img src="https://img.shields.io/badge/Gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white" />
