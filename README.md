@@ -12,18 +12,6 @@
 I'm a developer from **Russia** with a focus on the **.NET ecosystem**.  
 I build clean, scalable web applications and love diving into complex backend logic.
 
----
-
-### 🔥 Featured Project
-
-<a href="https://discord.gg/939HNjkQx" target="_blank">
-    <img src="https://img.shields.io/discord/1517622457006166150?style=plastic" />
-  </a>
-
-> A Minecraft modification that brings the atmosphere, mutants, and artifacts of the STALKER universe into the blocky world.
-
----
-
 ### 🛠️ Tech Stack
 
 #### Core Skills
