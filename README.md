@@ -35,17 +35,4 @@ I build clean, scalable web applications and love diving into complex backend lo
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaigafarovBogdan&theme=react&hide_border=true&background=0D1117" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/SaigafarovBogdan" target="_blank">
-    <img src="https://img.shields.io/badge/Gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-</p>
+</p>хб
